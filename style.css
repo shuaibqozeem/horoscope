@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 60px;
+  }
+  
+  div {
+    margin-bottom: 10px;
+  }
+  
+  #horoscopeResult {
+    margin-top: 20px;
+  }
+  #date{
+    display: block;
+    line-height: 20px;
+  }
